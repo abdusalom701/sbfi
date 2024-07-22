@@ -1,0 +1,66 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.al{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 400px;
+}
+.al a{
+    text-decoration: none;
+    color:  #333333;
+}
+.h2 h1{
+    width: 300px;
+    font-size: 50px;
+}
+.h2{
+    width: 200px;
+    margin-top: 150px;
+    margin-left: 50px;
+}
+.h2 button{
+    background: #0A775F;
+    color: #ffffff;
+    width: 150px;
+    height: 40px;
+    border-radius: 30px;
+}
+.im{
+    position: absolute;
+    margin-left: 600px;
+    margin-top: -400px;
+}
+section{
+    background: #F3D7B7;
+    height: 660px;
+}
+.card{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.cark{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.cart{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.carl{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.carl img{
+    width: 500px;
+}
+.footer img{
+    margin-top: 700px;
+}
